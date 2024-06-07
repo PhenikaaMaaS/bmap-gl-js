@@ -202,7 +202,6 @@ export class RequestManager {
     }
 
     _makeAPIURL(urlObject: UrlObject, accessToken: string | null | void): string {
-        console.log(urlObject)
         const help = 'See https://docs.mapbox.com/api/overview/#access-tokens-and-token-scopes';
         const apiUrlObject = parseUrl(config.API_URL);
         urlObject.protocol = apiUrlObject.protocol;
