@@ -2791,10 +2791,10 @@ duplexer2@^0.1.2, duplexer2@~0.1.0, duplexer2@~0.1.2:
   dependencies:
     readable-stream "^2.0.2"
 
-earcut@^2.2.4:
-  version "2.2.4"
-  resolved "https://registry.yarnpkg.com/earcut/-/earcut-2.2.4.tgz#6d02fd4d68160c114825d06890a92ecaae60343a"
-  integrity sha512-/pjZsA1b4RPHbeWZQn66SWS8nZZWLQQ23oE3Eam7aroEFGEvwKAsJfZ9ytiEMycfzXWpca4FA9QIOehf7PocBQ==
+earcut@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/earcut/-/earcut-3.0.0.tgz#a8d5bf891224eaea8287201b5e787c6c0318af89"
+  integrity sha512-41Fs7Q/PLq1SDbqjsgcY7GA42T0jvaCNGXgGtsNdvg+Yv8eIu06bxv4/PoREkZ9nMDNwnUSG9OFB9+yv8eKhDg==
 
 ecc-jsbn@~0.1.1:
   version "0.1.2"
